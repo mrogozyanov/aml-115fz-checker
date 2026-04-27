@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+aml_checks.db
+reports/
+screenshots/
+
+.streamlit/
+
+.DS_Store
+Thumbs.db
